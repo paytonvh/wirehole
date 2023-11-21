@@ -164,3 +164,5 @@ Provide information on how to access the shell while the container is running, v
 ###### Acknowledgements
 
 Credit to LinuxServer.io for their maintenance of the Wireguard image and other contributions to the project.
+
+Payton Van Houtte
